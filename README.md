@@ -1,4 +1,4 @@
-# deutalk
+# franceApp
 
 A new Flutter application.
 
